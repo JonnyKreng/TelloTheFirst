@@ -1,6 +1,6 @@
 Just a script to have some fun with the dji Tello, tello.py is the python wrapper from the offical python sdk.
-FaceDetect is a script that detect faces with cv2 facedtection and follows them, at the moment it's not god with multiple
-faces. The drone starts and follow a face if it sees one.
+FaceDetect is a script that detect faces with cv2 facedtection and drone follows them, at the moment it's not good with multiple 
+faces. The drone starts and than follows a face if it sees one.
 
 You need the the:
 imutils	0.5.2	0.5.2
