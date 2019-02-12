@@ -1,0 +1,9 @@
+Just a script to have some fun with the dji Tello, tello.py is the python wrapper from the offical python sdk.
+FaceDetect is a script that detect faces with cv2 facedtection and follows them, at the moment it's not god with multiple
+faces. The drone starts and follow a face if it sees one.
+
+You need the the:
+imutils	0.5.2	0.5.2
+numpy	1.16.1
+opencv-contrib-python	4.0.0.21	//contrib is important otherwise tracking is not working
+to run the script.
